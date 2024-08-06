@@ -1,0 +1,45 @@
+.pros3{
+    width: 320px;
+    height: 650px;
+    background-color: white;
+
+}
+.pros4{
+    font-size: 20px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.zo1{
+    width: 130px;
+    height: 90px;
+    margin-left: 10px;
+}
+.zs{
+    display: flex;
+}
+.zs3{
+    padding-left: 15px;
+}
+.aaa{
+    display: flex;
+    gap: 30px;
+    margin-top: 20px;
+    
+}
+.aaaa{
+    margin-left: 220px;
+    margin-top: 50px;
+}
+.aaaa1{
+    display: flex;
+}
+.zzzz1{
+    padding-top: 70px;
+    padding-left: 130px;
+}
+.wwww{
+    width: 320px;
+    height: 250px;
+    background-color: white;
+    padding-left: 20px;
+}

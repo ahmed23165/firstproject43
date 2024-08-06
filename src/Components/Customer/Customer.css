@@ -1,0 +1,168 @@
+.file5{
+    width: 70px;
+    border-radius: 30px;
+}
+.file6{
+    width: 70px;
+    border-radius: 30px;
+}
+.file7{
+    width: 70px;
+    border-radius: 30px; 
+}
+.files2{
+    padding-top: 70px;
+text-align: center;
+    
+    
+}
+.avd1{
+    font-size: 50px;
+    font-weight: 250px;
+
+}
+.file1{
+    display: flex;
+    justify-content: center;
+    padding-top: 80px;
+    gap: 30px;
+}
+.two1{
+    width: 100%;
+    height: 700px;
+    background-color: azure;    
+}
+/*@media only screen and (max-width: 584px)
+{
+    .files2{
+
+        margin-left: -520px;
+    }
+    .file1{
+        display: flex;
+        flex-direction: column;
+        margin-left: -200px;
+    }
+    .two1{
+        height: 1570px;
+    }
+}
+@media only screen and (max-width: 375px)
+{
+    .files2{
+
+        margin-left: -37.5rem;
+    }
+    .file1{
+        display: flex;
+        flex-direction: column;
+        margin-left: -20rem;
+    }
+    .two1{
+        height: 99.5rem;
+        width: 23.438rem;
+    }
+}
+@media only screen and (max-width: 320px)
+{
+    .files2{
+
+        margin-left: -37.5rem;
+    }
+    .file1{
+        display: flex;
+        flex-direction: column;
+        margin-left: -20rem;
+    }
+    .two1{
+        height: 104.5rem;
+        width: 20rem;
+    }
+}
+@media only screen and (max-width: 480px)
+{
+    .files2{
+
+        margin-left: -37.5rem;
+    }
+    .file1{
+        display: flex;
+        flex-direction: column;
+        margin-left: -20rem;
+    }
+    .two1{
+        height: 102.5rem;
+        width: 30rem;
+    }
+}
+
+
+@media only screen and (max-width: 576px)
+{
+    .files2{
+
+        margin-left: -37.5rem;
+    }
+    .file1{
+        display: flex;
+        flex-direction: column;
+        margin-left: -20rem;
+    }
+    .two1{
+        height: 102.5rem;
+        width: 36rem;
+    }
+}
+/*@media only screen and (max-width: 414px)
+{
+    .files2{
+
+        margin-left: -615px;
+    }
+    .file1{
+        display: flex;
+        flex-direction: column;
+        margin-left: -320px;
+    }
+    .two1{
+        height: 1592px;
+    }
+}
+@media only screen and (max-width: 390px)
+{
+    .files2{
+
+        margin-left: -605px;
+    }
+    .file1{
+        display: flex;
+        flex-direction: column;
+        margin-left: -320px;
+    }
+    .two1{
+        height: 1592px;
+    }
+}
+
+*/
+@media only screen and (max-width: 425px)
+{
+    .files2{
+
+        text-align: center;
+    }
+    .file1{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+    .two1{
+        height: 1630px;
+        
+    }
+}
+
+
+
+
+

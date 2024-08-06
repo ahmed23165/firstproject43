@@ -1,0 +1,137 @@
+
+.im1{
+    width: 250px;
+    height: 190px;
+    padding-top: 50px;
+    
+}
+.im3{
+    display: flex;
+    gap: 20px;
+    height: 500px;
+    justify-content: center;
+}
+.f1{
+    padding-top: 40px;
+    text-align: center;
+}
+.fRT{
+    padding-top: 40px;
+    text-align: center;
+}
+.im9{
+    
+    padding-top: 50px;
+}
+.ttuuoo{
+    padding-left: 140px;
+}
+/*@media only screen and (max-width: 584px)
+{
+    .im8 .f1{
+        margin-left: -560px;
+    }
+    .im8 .fRT{
+        margin-left: -480px;
+        font-size: 13px;
+    }
+    .im3 {
+       display: flex;
+       flex-direction: column;       
+       margin-left: 100px;
+       height: 1000px;
+    }
+}
+@media only screen and (max-width: 375px)
+{
+    .im15{
+        width: 23.438rem;
+    }
+    .im8 .f1{
+        margin-left: -40.625rem;
+    }
+    .im8 .fRT{
+        margin-left: -32.5rem;
+        font-size: 0.5rem;
+    }
+     .im8  .ttuuoo{
+        margin-left: -5.313rem;
+     }
+    .im3 {
+       display: flex;
+       flex-direction: column;       
+       margin-left: 1.25rem;
+       height: 62.5rem;
+    }
+}
+@media only screen and (max-width: 480px)
+{
+    .im15{
+        width: 30rem;
+    }
+    .im8 .f1{
+        margin-left: -40.625rem;
+    }
+    .im8 .fRT{
+        margin-left: -32.5rem;
+        font-size: 0.5rem;
+    }
+     .im8  .ttuuoo{
+        margin-left: -5.313rem;
+     }
+    .im3 {
+       display: flex;
+       flex-direction: column;       
+       margin-left: 1.25rem;
+       height: 62.5rem;
+    }
+}
+
+
+
+
+@media only screen and (max-width: 576px)
+{
+    .im15{
+        width: 36rem;
+    }
+    .im8 .f1{
+        margin-left: -39.625rem;
+    }
+    .im8 .fRT{
+        margin-left: -31.5rem;
+        font-size: 0.8rem;
+    }
+     .im8  .ttuuoo{
+        margin-left: -5.313rem;
+     }
+    .im3 {
+       display: flex;
+       flex-direction: column;       
+       margin-left: 1.25rem;
+       height: 62.5rem;
+    }
+}*/
+@media only screen and (max-width: 425px)
+{
+    .im15{
+        width: 100%;
+    }
+    .im8 .f1{
+        text-align: center;
+    }
+    .im8 .fRT{
+        text-align: center;
+        font-size: 0.6rem;
+    }
+     .im8  .ttuuoo{
+        text-align: center;
+     }
+    .im3 {
+       display: flex;
+       flex-direction: column;       
+       text-align: center;
+       height: 62.5rem;
+    }
+}
+

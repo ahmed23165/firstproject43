@@ -1,25 +1,31 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import "bootstrap/dist/css/bootstrap.min.css";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import Dropdown from "./Components/Dropdown/Dropdown";
+import All from "./Components/All/All";
+import Hotel from "./Components/Homes/Hotel";
+import About from "./Components/About/About";
+import Gallery from "./Components/Gallery/Gallery";
+import News from "./Components/News/News";
+import Cntact from "./Components/Cntact/Cntact";
+const App = () => {
+  
 
-function App() {
+  
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <BrowserRouter>
+      <Dropdown />
+      <Routes>
+        <Route  path='/' element={<All/>}/>
+        <Route path='/hotel' element={<Hotel/>}/>
+        <Route path='/about' element={<About />}/>
+        <Route path='/gallery' element={<Gallery />}/>
+        <Route  path='/news' element={<News /> }/>
+        <Route  path='/contact' element={<Cntact /> }/>
+      </Routes>
+    </BrowserRouter>
     </div>
   );
-}
-
+};
 export default App;

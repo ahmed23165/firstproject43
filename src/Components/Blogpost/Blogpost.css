@@ -1,0 +1,189 @@
+.old1{
+    background-color: aqua;
+    height: 850px;
+    
+    padding-top: 80px;
+    margin-top: 80px;
+}
+.sin5{
+    width: 20rem; 
+    height: 520px;
+    text-align: center;
+     display: flex;
+}
+.old2{
+   text-align: center;
+}
+.old3{
+   text-align: center;
+}
+.zin{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    text-align: center;
+    
+}
+ /*@media only screen and (max-width: 584px){
+    .old1 h1{
+        margin-left: -480px;
+    }
+    .old1 .old3{
+        margin-left: -450px;
+        font-size: 13px;
+    }
+    .zin{
+        display: flex;
+        flex-direction: column;
+        margin-left: -140px;
+    }
+    .old1{
+        height: 1900px;
+    }
+}
+@media only screen and (max-width: 375px){
+   .old1{
+    width: 23.538rem;
+   }
+    .old1 h1{
+        margin-left: -37.5rem;
+    }
+    .old1 .old3{
+        margin-left: -30.625rem;
+        font-size: 0.938rem;
+    }
+    .zin{
+        display: flex;
+        flex-direction: column;
+        margin-left: -14.25rem;
+        width: 21.438rem;
+    }
+    .old1{
+        height: 118.75rem;
+    }
+}
+@media only screen and (max-width: 320px){
+    .old1{
+     width: 20rem;
+    }
+     .old1 h1{
+         margin-left: -37.5rem;
+     }
+     .old1 .old3{
+         margin-left: -30.625rem;
+         font-size: 0.938rem;
+     }
+     .zin{
+         display: flex;
+         flex-direction: column;
+         margin-left: -14.25rem;
+         width: 20rem;
+     }
+     .old1{
+         height: 118.75rem;
+     }
+     .zin .Card{
+       width: 18rem;
+     }
+ }
+
+*/
+ @media only screen and (max-width: 425px){
+    .old1{
+     width: 100%;
+    }
+     .old1 h1{
+         text-align: center;
+     }
+     .old1 .old3{
+         text-align: center;
+         font-size: 0.5rem;
+     }
+     .zin{
+         display: flex;
+         flex-direction: column;
+
+         text-align: center;
+         
+        
+     }
+     .old1{
+         height: 118.75rem;
+     }
+     .zin .Card{
+       width: 18rem;
+     }
+     .sin5{
+        align-items: center;
+     }
+ }
+ /*
+ @media only screen and (max-width: 576px){
+    .old1{
+     width: 36rem;
+    }
+     .old1 h1{
+         margin-left: -37.5rem;
+     }
+     .old1 .old3{
+         margin-left: -30.625rem;
+         font-size: 0.938rem;
+     }
+     .zin{
+         display: flex;
+         flex-direction: column;
+         margin-left: -14.35rem;
+         width: 36rem;
+     }
+     .old1{
+         height: 118.75rem;
+     }
+     .zin .Card{
+       width: 18rem;
+     }
+ }
+
+
+
+/*@media only screen and (max-width: 414px){
+    .old1{
+     width: 414px;
+    }
+     .old1 h1{
+         margin-left: -600px;
+     }
+     .old1 .old3{
+         margin-left: -490px;
+         font-size: 15px;
+     }
+     .zin{
+         display: flex;
+         flex-direction: column;
+         margin-left: -220px;
+     }
+     .old1{
+         height: 1900px;
+     }
+ }
+ @media only screen and (max-width: 390px){
+    .old1{
+     width: 390px;
+    }
+     .old1 h1{
+         margin-left: -600px;
+     }
+     .old1 .old3{
+         margin-left: -490px;
+         font-size: 15px;
+     }
+     .zin{
+         display: flex;
+         flex-direction: column;
+         margin-left: -220px;
+     }
+     .old1{
+         height: 1900px;
+     }
+ }
+ */
+ 

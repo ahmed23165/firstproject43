@@ -1,0 +1,17 @@
+.cd1{
+    background-color: gray;
+    height: 800px;
+    margin-top: 80px;
+}
+.cd2{
+    padding-left: 460px;
+    padding-top: 200px;
+}
+.zins{
+    display: flex;
+    gap: 40px;
+    margin-left: 350px;
+}
+
+
+

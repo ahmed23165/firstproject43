@@ -1,0 +1,19 @@
+.v1{
+    background-image: url('../Assets/hero_5.jpg.webp');
+    background-repeat: no-repeat;
+    background-size: 100% 600px;
+    width: 100%;
+    height: 480px;
+   opacity: 0.9;  
+}
+.v2{
+    color: white;
+    padding-left: 10px;
+    padding-top: 30px;
+    font-size: 20px;
+}
+.v3{
+    padding-left: 650px;
+    padding-top: 250px;
+    color: white;
+}
